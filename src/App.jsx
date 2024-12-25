@@ -1,6 +1,6 @@
-import ContactForm from "./componets/ContactForm/ContactForm";
-import ContactList from "./componets/ContactList/ContactList";
-import SeachBox from "./componets/SeachBox/SeachBox";
+import ContactForm from "./components/ContactForm/ContactForm";
+import ContactList from "./components/ContactList/ContactList";
+import SeachBox from "./components/SeachBox/SeachBox";
 import contactsList from "./assets/contact.json";
 import { useEffect, useState } from "react";
 
